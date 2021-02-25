@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.5.25
+
+### Patch Changes
+
+- 7b624685: It was impossible to set a Date directly to an annotated Term property
+
 ## 0.5.24
 
 ### Patch Changes
